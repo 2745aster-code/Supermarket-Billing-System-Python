@@ -43,11 +43,11 @@ Enter name of the Product: Onion
 Enter quantity of the Product: 8
 Enter 'A' to add item and 'Q' to quit: q
 Membership Details
-    1. Gold Membership (G / g)
-    2. Silver Membership (S / s)
-    3. Bronze Membership(B / b)
-    4. No Membership (N / n)
-    Enter the membership you have: G
+  1. Gold Membership (G / g)
+  2. Silver Membership (S / s)
+  3. Bronze Membership(B / b)
+  4. No Membership (N / n)
+Enter the membership you have: G
 Biscuit: $3 * 1 = $3
 Chicken: $5 * 2 = $10
 Egg: $1 * 3 = $3
